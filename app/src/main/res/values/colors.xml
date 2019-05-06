@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="transparentwhite">#70FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="blueberry">#6B7A8F</color>
+    <color name="apricot">#F7882F</color>
+    <color name="citrus">#F7C331</color>
+    <color name="sand">#DCC7AA</color>
+
+    <color name="ice">#99D3DF</color>
+    <color name="freshwater">#88BBD6</color>
+    <color name="plaster">#CDCDCD</color>
+    <color name="linen">#E9E9E9</color>
+
+    <color name="morningsky">#CAE4DB</color>
+    <color name="honey">#DCAE1D</color>
+    <color name="cerulean">#00303F</color>
+    <color name="mist">#7A9D96</color>
+
+    <color name="coral">#F18C8E</color>
+    <color name="melocoton">#F0B7A4</color>
+    <color name="amarillo">#F1D1B5</color>
+    <color name="teal">#568EA6</color>
+    <color name="strongteal">#305F72</color>
+
+    <color name="color1">#FCBB6D</color>
+    <color name="color2">#D8737F</color>
+    <color name="color3">#AB6C82</color>
+    <color name="color4">#685D79</color>
+    <color name="color5">#475C7A</color>
+
+    <color name="ashblue">#ACC2CE</color>
+    <color name="dovegrey">#9C8F96</color>
+    <color name="dandelion">#EBC57C</color>
+    <color name="blueslate">#6B799E</color>
+
+    <color name="desertsand">#DCC1B0</color>
+    <color name="balihali">#869DAB</color>
+    <color name="wenge">#847072</color>
+    <color name="bastille">#3D313F</color>
+
+    <color name="blushpink">#EB8F90</color>
+    <color name="tangerine">#FFB471</color>
+    <color name="casper">#ADBED2</color>
+    <color name="regalblue">#12406A</color>
+
+    <color name="turtlesand">#F5E2D4</color>
+    <color name="ochre">#ECBA73</color>
+    <color name="anakiwa">#A8DFF1</color>
+    <color name="galapagos">#024757</color>
+
+    <color name="rosybrown">#EAC9C0</color>
+    <color name="orchid">#DAB2D3</color>
+    <color name="fluorescent">#9EDAE3</color>
+    <color name="cornflower">#65C4D8</color>
+
+</resources>

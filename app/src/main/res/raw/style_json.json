@@ -1,0 +1,18 @@
+
+[
+  {
+    "featureType": "poi.business",
+    "elementType": "all",
+    "stylers": [
+      {
+        "visibility": "off"
+      }
+    ]
+  }, {
+  "featureType": "landscape",
+  "elementType": "labels",
+  "stylers": [
+    { "visibility": "off" }
+  ]
+}
+]
